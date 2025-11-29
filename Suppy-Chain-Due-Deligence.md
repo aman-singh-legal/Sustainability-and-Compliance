@@ -395,7 +395,7 @@ Short summary & overall risk rating.
 (Continue / restrict / suspend / terminate)
 ---
 ### Annex C — Remediation Plan Template
-# Remediation Plan — [Supplier Name]
+## Remediation Plan — [Supplier Name]
 
 **Issue ID:**  
 **Description:**  
