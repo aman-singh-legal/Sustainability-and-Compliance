@@ -360,9 +360,52 @@ I declare that the information is true and accurate.
 ## 13. Annexures & Templates
 
 ### Annex A — Quick Risk Heat Map (Markdown Table)
-```markdown
+
 | Supplier | Country | Spend (€) | Risk Score | Risk Band | Last Audit | Next Action |
 |----------|---------|-----------:|-----------:|----------|------------|-------------|
 | Supplier A | Country X | 1,200,000 | 82 | Critical | 2024-06 | Onsite audit Q2 |
 | Supplier B | Country Y | 350,000 | 45 | Medium | 2023-11 | Questionnaire |
 | Supplier C | Country Z | 95,000 | 22 | Low | N/A | Monitor |
+
+---
+
+### Annex B — Short Supplier Audit Report Template
+## Supplier Audit Report — [Supplier Name]
+
+**Audit Date:**  
+**Audit Type:** (Onsite / Remote)  
+**Auditor(s):**  
+**Scope:**  
+
+## Executive Summary
+Short summary & overall risk rating.
+
+## Findings (by category)
+- Labour & Human Rights: [Findings + severity]  
+- Environment: [Findings + severity]  
+- Health & Safety: [Findings + severity]  
+- Governance & Anti-Corruption: [Findings + severity]  
+- Data & Cyber: [Findings + severity]
+
+## Corrective Actions (Top items)
+1. [Issue] — [Action owner] — [Due date]  
+2. ...
+
+## Conclusion & Recommendation
+(Continue / restrict / suspend / terminate)
+---
+### Annex C — Remediation Plan Template
+# Remediation Plan — [Supplier Name]
+
+**Issue ID:**  
+**Description:**  
+**Severity:**  
+**Root Cause:**  
+**Action(s):**
+- Action 1 — Owner — Due Date — Evidence Required  
+- Action 2 — Owner — Due Date — Evidence Required
+
+**Verification:**  
+**Status:**  
+**Closure Date:**
+
