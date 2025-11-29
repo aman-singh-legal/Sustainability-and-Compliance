@@ -359,7 +359,7 @@ I declare that the information is true and accurate.
 
 ## 13. Annexures & Templates
 
-### Annex A — Quick Risk Heat Map (Markdown Table)
+### _Annex A — Quick Risk Heat Map (Markdown Table)_
 
 | Supplier | Country | Spend (€) | Risk Score | Risk Band | Last Audit | Next Action |
 |----------|---------|-----------:|-----------:|----------|------------|-------------|
@@ -369,7 +369,7 @@ I declare that the information is true and accurate.
 
 ---
 
-### Annex B — Short Supplier Audit Report Template
+### _Annex B — Short Supplier Audit Report Template_
 ## Supplier Audit Report — [Supplier Name]
 
 **Audit Date:**  
@@ -394,7 +394,7 @@ Short summary & overall risk rating.
 ## Conclusion & Recommendation
 (Continue / restrict / suspend / terminate)
 ---
-### Annex C — Remediation Plan Template
+### _Annex C — Remediation Plan Template_
 ## Remediation Plan — [Supplier Name]
 
 **Issue ID:**  
