@@ -4,7 +4,7 @@
 
 This repository contains a curated collection of **sustainability and compliance frameworks**, including templates, checklists, regulatory guidance, reporting structures, and supply chain due diligence tools used in modern organizations.
 
-It is designed for professionals working in:  
+It is designed for professionals working in: 
 **Sustainability • ESG • Compliance • GRC • Corporate Governance • Risk Management • EU Reporting • Environmental Stewardship**
 
 ---
