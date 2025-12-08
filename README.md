@@ -17,7 +17,7 @@ A complete collection of templates, checklists, governance policies, and framewo
 | | Remediation_Plan.md | Corrective action & remediation plan document |
 | | Supplier_Code_of_Conduct.md | Ethical & sustainability standards for suppliers |
 | **Governance/** | [Anti_Corruption_Governance.md](anti-corruption-governance-framework.md) | Anti-corruption policy, controls & governance guide |
-| | Whistleblower_Protection_Policy.md | Internal whistleblowing protection policy |
+| | [Whistleblower_Protection_Policy.md](Whistleblower-Protection-Policy.md) | Internal whistleblowing protection policy |
 | **Tools/** | Sustainability_Compliance_Tracker.md | Tool for tracking ESG, supply chain & governance compliance tasks |
 
 ---
@@ -36,7 +36,7 @@ A complete collection of templates, checklists, governance policies, and framewo
 
 ### **Governance (G)**
 - [Anti-Corruption Governance Policy](anti-corruption-governance-framework.md)  
-- Whistleblower Protection Policy  
+- [Whistleblower Protection Policy](Whistleblower-Protection-Policy.md) 
 - Code of Conduct templates  
 - Ethics & compliance reporting systems  
 
